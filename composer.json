@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pushbots/pushbots-php": "^1.2",
+        "arcturial/clickatell": "^3.0",
+        "stripe/stripe-php": "^6.28"
+    }
+}

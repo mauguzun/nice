@@ -1,0 +1,12 @@
+composer.phar
+/vendor/
+._*
+*.lock
+.DS_Store
+.idea
+phpunit.phar
+/phpunit.xml
+build/
+*.swp
+*~
+*.log

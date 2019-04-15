@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\server\OSPanel\domains\localhost\tricypolitain.com\cyber_project.clpprj">
+	<settings><PM_URL><![CDATA[C:/open/OSPanel/domains/localhost/mariastore/]]></PM_URL><PM_HOME_URL><![CDATA[C:/open/OSPanel/domains/localhost/mariastore/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\open\OSPanel\domains\localhost\cyber_project\application\config\_database.php;C:\open\OSPanel\domains\localhost\cyber_project\application\controllers\NewFile.php;C:\open\OSPanel\domains\localhost\cyber_project\application\controllers\Payment.php;C:\open\OSPanel\domains\localhost\cyber_project\application\controllers\api\Ordersetstatus.php;C:\open\OSPanel\domains\localhost\cyber_project\application\logs\log-2019-01-09.php;C:\open\OSPanel\domains\localhost\cyber_project\application\logs\log-2019-01-10.php;C:\open\OSPanel\domains\localhost\cyber_project\application\logs\log-2019-01-11.php;C:\open\OSPanel\domains\localhost\cyber_project\application\logs\log-2019-01-12.php;C:\open\OSPanel\domains\localhost\cyber_project\application\logs\log-2019-01-14.php;C:\open\OSPanel\domains\localhost\cyber_project\application\logs\log-2019-01-16.php;C:\open\OSPanel\domains\localhost\cyber_project\application\logs\log-2019-01-17.php;C:\open\OSPanel\domains\localhost\cyber_project\application\views\admin\function_update.php;C:\open\OSPanel\domains\localhost\cyber_project\application\views\admin\payment.php;C:\open\OSPanel\domains\localhost\cyber_project\application\views\table.php;C:\open\OSPanel\domains\localhost\cyber_project\static\NewFile.php;C:\open\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\NewFile.php;"/><added value=""/><lastopfiles>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\config.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\database.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\index.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Send.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Manage.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\constants.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\paypal.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\pay.php"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\language_helper.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\EachPromise.php">
+			<error val="67;120;68;120;901;2;"/>
+			<error val="35;141;36;141;901;2;"/>
+		</errfile>
+		<errfile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\CurlMultiHandler.php">
+			<error val="87;107;88;107;901;2;"/>
+		</errfile>
+		<errfile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\paypal.php">
+			<error val="99;246;110;246;2002;1;"/>
+		</errfile>
+		<errfile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\pay.php">
+			<error val="18;267;48;267;2002;1;"/>
+			<error val="0;203;33;203;2002;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Driver.php">
+			<todo name="todo we get drivers location from database" pos="21;21"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Freedriver.php">
+			<todo name="todo get free driver from databae 1 have , 0 all busy" pos="13;17"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Login.php">
+			<todo name="todo update user data" pos="4;19"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Price.php">
+			<todo name="todo disctance  ,  and proce  and drivewe await" pos="4;18"/>
+			<todo name="todo not correct but what to do" pos="4;33"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Register.php">
+			<todo name="todo last lagin + 20 minut" pos="5;36"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\de\ion_auth_lang.php">
+			<todo name="TODO Please Translate" pos="1;27"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\de\rest_controller_lang.php">
+			<todo name="todo translate" pos="105;15"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\es\rest_controller_lang.php">
+			<todo name="todo translate" pos="105;15"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\fr\rest_controller_lang.php">
+			<todo name="todo translate" pos="105;15"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\it\rest_controller_lang.php">
+			<todo name="todo translate" pos="105;15"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\ion_auth_lang.php">
+			<todo name="TODO Please Translate" pos="1;30"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\rest_controller_lang.php">
+			<todo name="todo translate" pos="105;15"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\ru\rest_controller_lang.php">
+			<todo name="todo translate" pos="105;15"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\zh\rest_controller_lang.php">
+			<todo name="todo translate" pos="105;15"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\Calculate.php">
+			<todo name="todo use queue" pos="3;53"/>
+			<todo name="todo others not bussied" pos="6;63"/>
+			<todo name="todo get first" pos="3;73"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\models\Ion_auth_model.php">
+			<todo name="@TODO to delete in later revision" pos="23;339"/>
+			<todo name="TODO to be removed in later version" pos="5;2731"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Loader.php">
+			<todo name="todo	Figure out a way to move this to the constructor" pos="5;148"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Output.php">
+			<todo name="todo	We need to figure out how to permit headers to be cached." pos="5;209"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_forge.php">
+			<todo name="todo	Remove deprecated $_after option in 3.1+" pos="5;555"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_query_builder.php">
+			<todo name="@todo error" pos="4;2075"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlite3\sqlite3_driver.php">
+			<todo name="todo	Implement use of SQLite3::querySingle(), if needed" pos="5;120"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlite3\sqlite3_forge.php">
+			<todo name="todo	implement drop_column(), modify_column()" pos="5;135"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\string_helper.php">
+			<todo name="todo: remove in 3.1+" pos="19;202"/>
+			<todo name="todo: remove in 3.1+" pos="20;205"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\url_helper.php">
+			<todo name="todo	Remove old 'dash' and 'underscore' usage in 3.1+." pos="5;472"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Xmlrpc.php">
+			<todo name="@todo - this needs to be made more general purpose" pos="6;1572"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Client.php">
+			<todo name="@todo: Do not rely on curl" pos="21;356"/>
+			<todo name="TODO: Add more sink validation" pos="13;381"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\BufferStream.php">
+			<todo name="TODO: What should happen here" pos="9;120"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Base.php">
+			<todo name="TODO: make this a proper constructor argument in the next major" pos="9;22"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Card.php">
+			<todo name="TODO: once Error\Base accepts the error code as an argument, pass it" pos="9;18"/>
+			<todo name="TODO: make this a proper constructor argument in the next major" pos="9;25"/>
+		</todofile>
+		<todofile name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\HttpClient\CurlClient.php">
+			<todo name="TODO: curl_reset requires PHP &gt;= 5.5.0. Once we drop support for PHP 5.4, we can simply" pos="9;67"/>
+		</todofile>
+	</todoblock>
+	<filescache>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\Util.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\Set.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\RequestOptions.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\RandomGenerator.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\LoggerInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\DefaultLogger.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\CaseInsensitiveArray.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Util\AutoPagingIterator.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Terminal\Reader.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Terminal\Location.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Terminal\ConnectionToken.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Sigma\ScheduledQueryRun.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Reporting\ReportType.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Reporting\ReportRun.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Radar\ValueListItem.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Radar\ValueList.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Issuing\Transaction.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Issuing\Dispute.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Issuing\Cardholder.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Issuing\CardDetails.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Issuing\Card.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Issuing\Authorization.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\HttpClient\CurlClient.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\HttpClient\ClientInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\OAuth\UnsupportedResponseType.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\OAuth\UnsupportedGrantType.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\OAuth\OAuthBase.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\OAuth\InvalidScope.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\OAuth\InvalidRequest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\OAuth\InvalidGrant.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\OAuth\InvalidClient.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\SignatureVerification.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\RateLimit.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Permission.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\InvalidRequest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Idempotency.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Card.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Base.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Authentication.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\ApiConnection.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Error\Api.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiOperations\Update.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiOperations\Retrieve.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiOperations\Request.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiOperations\NestedResource.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiOperations\Delete.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiOperations\Create.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiOperations\All.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\WebhookSignature.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\WebhookEndpoint.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Webhook.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\UsageRecordSummary.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\UsageRecord.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\TransferReversal.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Transfer.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Topup.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Token.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ThreeDSecure.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\SubscriptionItem.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Subscription.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\StripeObject.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Stripe.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\SourceTransaction.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Source.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\SKU.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\SingletonApiResource.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Review.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\RequestTelemetry.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Refund.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\RecipientTransfer.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Recipient.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Product.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Plan.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Person.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Payout.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\PaymentIntent.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\OrderReturn.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\OrderItem.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Order.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\OAuth.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\LoginLink.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\IssuerFraudRecord.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\InvoiceLineItem.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\InvoiceItem.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Invoice.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\FileUpload.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\FileLink.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\File.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ExchangeRate.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Event.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\EphemeralKey.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Dispute.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Discount.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Customer.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Coupon.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\CountrySpec.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Collection.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\CheckoutSession.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Charge.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Card.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\BitcoinTransaction.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\BitcoinReceiver.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\BankAccount.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\BalanceTransaction.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Balance.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApplicationFeeRefund.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApplicationFee.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApplePayDomain.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiResponse.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiResource.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\ApiRequestor.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\AlipayAccount.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\AccountLink.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\lib\Account.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\update_certs.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\init.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\stripe\stripe-php\build.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\test\PushbotsTransactionalTest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\test\PushbotsClientTest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\test\PushbotsCampaignTest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\src\PushbotsTransactional.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\src\PushbotsClient.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\src\PushbotsCampaign.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\.travis.yml" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\pushbots\pushbots-php\.codeclimate.yml" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\psr\http-message\src\UriInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\psr\http-message\src\UploadedFileInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\psr\http-message\src\StreamInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\psr\http-message\src\ServerRequestInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\psr\http-message\src\ResponseInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\psr\http-message\src\RequestInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\psr\http-message\src\MessageInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\UriResolver.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\UriNormalizer.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\Uri.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\UploadedFile.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\StreamWrapper.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\StreamDecoratorTrait.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\Stream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\ServerRequest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\Response.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\Request.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\PumpStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\NoSeekStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\MultipartStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\MessageTrait.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\LimitStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\LazyOpenStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\InflateStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\functions_include.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\functions.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\FnStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\DroppingStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\CachingStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\BufferStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\psr7\src\AppendStream.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\TaskQueueInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\TaskQueue.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\RejectionException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\RejectedPromise.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\PromisorInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\PromiseInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\Promise.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\functions_include.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\functions.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\FulfilledPromise.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\EachPromise.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\Coroutine.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\CancellationException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\promises\src\AggregateException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\StreamHandler.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\Proxy.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\MockHandler.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\EasyHandle.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\CurlMultiHandler.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\CurlHandler.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\CurlFactoryInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\TransferException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\TooManyRedirectsException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\ServerException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\SeekException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\GuzzleException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\ConnectException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\ClientException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Exception\BadResponseException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Cookie\SetCookie.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Cookie\SessionCookieJar.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Cookie\FileCookieJar.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Cookie\CookieJarInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Cookie\CookieJar.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\UriTemplate.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\TransferStats.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\RetryMiddleware.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\RequestOptions.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\RedirectMiddleware.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Pool.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Middleware.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\MessageFormatter.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\HandlerStack.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\functions_include.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\functions.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\ClientInterface.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\guzzlehttp\guzzle\src\Client.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\composer\ClassLoader.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\composer\autoload_static.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\composer\autoload_real.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\composer\autoload_psr4.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\composer\autoload_namespaces.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\composer\autoload_files.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\composer\autoload_classmap.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\City\src\Tour.php" crc="1553281700"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\City\src\TextData.php" crc="1553281700"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\City\src\Point.php" crc="1553281700"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\arcturial\clickatell\test\RestTest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\arcturial\clickatell\src\Rest.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\arcturial\clickatell\src\ClickatellException.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\arcturial\clickatell\phpunit.xml" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\vendor\autoload.php" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\drivers\Session_redis_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\drivers\Session_memcached_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\drivers\Session_files_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\drivers\Session_database_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\drivers\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\Session_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\Session.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Session\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\Cache_wincache.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\Cache_redis.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\Cache_memcached.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\Cache_file.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\Cache_dummy.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\Cache_apcu.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\drivers\Cache_apc.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Cache\Cache.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Zip.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Xmlrpcs.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Xmlrpc.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\User_agent.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Upload.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Unit_test.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Typography.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Trackback.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Table.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Profiler.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Parser.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Pagination.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Migration.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Image_lib.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Ftp.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Form_validation.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Encryption.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Encrypt.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Email.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\libraries\Calendar.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\zh\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\upload_lang.php" crc="1543519751"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\unit_test_lang.php" crc="1543519746"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\profiler_lang.php" crc="1543519743"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\pagination_lang.php" crc="1543519739"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\number_lang.php" crc="1543519735"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\migration_lang.php" crc="1543519732"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\index.html" crc="1543519728"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\imglib_lang.php" crc="1543519724"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\ftp_lang.php" crc="1543519720"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\form_validation_lang.php" crc="1543519716"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\email_lang.php" crc="1543519713"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\db_lang.php" crc="1543519709"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\date_lang.php" crc="1543519705"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\ru\calendar_lang.php" crc="1543519702"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\pl\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\upload_lang.php" crc="1543519751"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\unit_test_lang.php" crc="1543519746"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\profiler_lang.php" crc="1543519743"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\pagination_lang.php" crc="1543519739"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\number_lang.php" crc="1543519735"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\migration_lang.php" crc="1543519732"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\index.html" crc="1543519728"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\imglib_lang.php" crc="1543519724"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\ftp_lang.php" crc="1543519720"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\form_validation_lang.php" crc="1543519716"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\email_lang.php" crc="1543519713"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\db_lang.php" crc="1543519709"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\date_lang.php" crc="1543519705"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\lv\calendar_lang.php" crc="1543519702"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\it\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\indonesian\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hungarian\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\hindi\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\gujarati\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\greek\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\french\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\upload_lang.php" crc="1543519751"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\unit_test_lang.php" crc="1543519746"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\profiler_lang.php" crc="1543519743"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\pagination_lang.php" crc="1543519739"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\number_lang.php" crc="1543519735"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\migration_lang.php" crc="1543519732"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\index.html" crc="1543519728"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\imglib_lang.php" crc="1543519724"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\ftp_lang.php" crc="1543519720"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\form_validation_lang.php" crc="1543519716"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\email_lang.php" crc="1543519713"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\db_lang.php" crc="1543519709"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\date_lang.php" crc="1543519705"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\fr\calendar_lang.php" crc="1543519702"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\filipino\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\es\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\upload_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\unit_test_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\profiler_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\pagination_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\number_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\migration_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\imglib_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\ftp_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\form_validation_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\email_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\db_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\date_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\en\calendar_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\dutch\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\de\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\danish\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\czech\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\croatian\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\catalan\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bulgarian\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\bengali\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\azerbaijani\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\upload_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\unit_test_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\profiler_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\pagination_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\number_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\migration_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\index.html" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\imglib_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\ftp_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\form_validation_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\email_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\db_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\date_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\arabic\calendar_lang.php" crc="1554209631"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\language\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\xml_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\url_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\typography_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\text_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\string_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\security_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\path_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\number_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\language_helper.php" crc="1555314461"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\inflector_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\html_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\form_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\file_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\download_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\directory_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\date_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\cookie_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\captcha_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\helpers\array_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\fonts\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlsrv\sqlsrv_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlsrv\sqlsrv_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlsrv\sqlsrv_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlsrv\sqlsrv_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlsrv\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlite3\sqlite3_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlite3\sqlite3_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlite3\sqlite3_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlite3\sqlite3_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\sqlite3\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\postgre\postgre_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\postgre\postgre_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\postgre\postgre_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\postgre\postgre_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\postgre\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_sqlite_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_sqlite_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_pgsql_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_pgsql_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_odbc_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_odbc_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_oci_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_oci_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_mysql_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_mysql_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_informix_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_informix_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_ibm_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_ibm_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_firebird_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_firebird_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_dblib_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_dblib_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_cubrid_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_cubrid_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_4d_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\pdo_4d_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\subdrivers\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\pdo_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\pdo_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\pdo_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\pdo_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\pdo\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\odbc\odbc_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\odbc\odbc_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\odbc\odbc_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\odbc\odbc_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\odbc\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\oci8\oci8_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\oci8\oci8_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\oci8\oci8_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\oci8\oci8_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\oci8\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysqli\mysqli_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysqli\mysqli_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysqli\mysqli_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysqli\mysqli_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysqli\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysql\mysql_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysql\mysql_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysql\mysql_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysql\mysql_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mysql\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mssql\mssql_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mssql\mssql_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mssql\mssql_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mssql\mssql_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\mssql\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\ibase\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\ibase\ibase_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\ibase\ibase_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\ibase\ibase_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\ibase\ibase_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\cubrid\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\cubrid\cubrid_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\cubrid\cubrid_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\cubrid\cubrid_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\cubrid\cubrid_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\drivers\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_utility.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_result.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_query_builder.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_forge.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_driver.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB_cache.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\database\DB.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\compat\standard.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\compat\password.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\compat\mbstring.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\compat\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\compat\hash.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Utf8.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\URI.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Security.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Router.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Output.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Model.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Log.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Loader.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Input.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Hooks.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Exceptions.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Controller.php" crc="1554281034"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Config.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Common.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\CodeIgniter.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\core\Benchmark.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\system\.htaccess" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\zh_TW.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\zh_CN.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\vi_VN.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\uk_UA.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\tr_TR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\th_TH.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\sv_SE.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\sr_RS_lt.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\sr_RS_cy.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\sl_SI.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\sk_SK.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ru.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ro_RO.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\pt_PT.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\pt_BR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\pl_PL.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\nl_NL.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ne_NP.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\nb_NO.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\lv_LV.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\lt_LT.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ko_KR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\km_KH.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ja_JP.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\it_IT.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\is_IS.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\id_ID.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\hu_HU.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\hr_HR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\hi_IN.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\he_IL.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\gl_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ge_GEO.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\fr.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\fi_FI.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\fa_IR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\eu_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\et_EE.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\es_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\el_GR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\de_DE.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\da_DK.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\cs_CZ.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ca_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\bs_BA.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\bg_BG.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\translations\ar.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\rtl.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\default.time.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\default.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\default.date.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\classic.time.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\classic.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\classic.date.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\base.time.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\base.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\base.date.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes-source\_variables.less" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes\rtl.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes\default.time.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes\default.date.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes\default.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes\classic.time.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes\classic.date.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\themes\classic.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\zh_TW.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\zh_CN.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\vi_VN.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\uk_UA.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\tr_TR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\th_TH.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\sv_SE.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\sl_SI.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\sk_SK.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ru_RU.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ro_RO.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\pt_PT.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\pt_BR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\pl_PL.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\no_NO.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\nl_NL.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ne_NP.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\nb_NO.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\lv_LV.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\lt_LT.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ko_KR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ja_JP.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\it_IT.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\is_IS.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\id_ID.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\hu_HU.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\hr_HR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\hi_IN.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\he_IL.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\gl_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ge_GEO.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\fr_FR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\fi_FI.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\fa_IR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\eu_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\et_EE.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\es_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\el_GR.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\de_DE.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\da_DK.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\cs_CZ.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ca_ES.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\bs_BA.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\bg_BG.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\translations\ar.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\themes\rtl.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\themes\default.time.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\themes\default.date.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\themes\default.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\themes\classic.time.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\themes\classic.date.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\themes\classic.css" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\picker.time.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\picker.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\picker.date.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\compressed\legacy.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\picker.time.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\picker.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\picker.date.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\lib\legacy.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\theme.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\slick.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\respond.min.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\parallax.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\owl.carousel.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\jquery.themepunch.tools.min.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\jquery.themepunch.revolution.min.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\jquery.scrollTo-1.4.2-min.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\jquery.parallax-1.1.3.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\jquery.localscroll-1.2.7-min.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\jquery.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\html5shiv.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\js\bootstrap.js" crc="1553281573"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\style.css" crc="1554577781"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\slick.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\settings.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\responsive.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\preset.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\owl.theme.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\owl.carousel.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\font-awesome.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\flaticon.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\bootstrap.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\front\css\animate.css" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery\jquery.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery\jquery.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\flexslider\jquery.flexslider.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\flexslider\jquery.flexslider-min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\wow.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\own-menu.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\owl.carousel.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\modernizr.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\map.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery.textillate.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery.sticky.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery.magnific-popup.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery.isotope.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery.fatNav.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\jquery.downCount.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\color-switcher.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\vendors\bootstrap.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.video.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.slideanims.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.parallax.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.navigation.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.migration.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.layeranimation.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.kenburn.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.carousel.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\revolution.extension.actions.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\source\index.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.video.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.slideanims.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.parallax.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.navigation.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.migration.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.layeranimation.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.kenburn.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.carousel.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\revolution.extension.actions.min.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\extensions\index.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\uploader.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\js\main.js" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\fonts\montserrat-fonts.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\fonts\flaticon.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\fonts\flaticon.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\fonts\_flaticon.scss" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\css\style.css" crc="1547985950"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\css\responsive.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\css\main.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\css\ionicons.min.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\css\font-awesome.min.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\css\bootstrap.min.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\static\admin\css\animate.css" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\paypal.php" crc="1555315694"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\pay.php" crc="1548523856"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\index.php" crc="1555315264"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\front\form.php" crc="1554332339"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\html\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\html\error_php.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\html\error_general.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\html\error_exception.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\html\error_db.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\html\error_404.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\cli\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\cli\error_php.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\cli\error_general.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\cli\error_exception.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\cli\error_db.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\cli\error_404.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\errors\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\email\ticket.php" crc="1546956235"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\email\forgot_password.tpl.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\email\activate.tpl.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\reset_password.php" crc="1547044562"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\login.php" crc="1547041763"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\index.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\forgot_password.php" crc="1547042883"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\edit_user.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\edit_group.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\deactivate_user.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\create_user.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\create_group.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\auth\change_password.php" crc="1547044377"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\video.php" crc="1546963902"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\uploader.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\tour_view.php" crc="1547989802"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\tour.php" crc="1554291519"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\table.php" crc="1547226060"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\slider.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\simple_table.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\point_map.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\payment.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\page.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\mobile.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\login.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\list.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\img_upload.php" crc="1554285587"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\header.php" crc="1554296320"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\gmap.php" crc="1547151979"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\function_update.php" crc="1547038334"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\form_extended.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\footer.php" crc="1547033406"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\dialog.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\checkout.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\cart.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\admin\body.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\test.php" crc="1550144019"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\table.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\views\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\userguide\js\jquery.min.js" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\userguide\js\functions.js" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\userguide\userguide.css" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\userguide\index.html" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\third_party\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\models\Ion_auth_model.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\models\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\models\Crudmodel.php" crc="1554449140"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-04-10.php" crc="1554922498"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-04-07.php" crc="1554629029"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-04-06.php" crc="1554580776"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-04-04.php" crc="1554332552"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-04-03.php" crc="1554324014"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-03-27.php" crc="1553688949"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-03-26.php" crc="1553583406"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-03-17.php" crc="1552841993"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-03-06.php" crc="1551830857"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-02-27.php" crc="1551246599"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-02-23.php" crc="1550923885"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-02-14.php" crc="1550160293"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-02-13.php" crc="1550088730"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-02-08.php" crc="1549649795"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-02-05.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-02-01.php" crc="1549051337"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-31.php" crc="1548928302"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-30.php" crc="1548876818"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-28.php" crc="1548679814"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-26.php" crc="1548498546"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-25.php" crc="1548451740"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-24.php" crc="1548363371"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-23.php" crc="1548242694"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-21.php" crc="1548092999"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-20.php" crc="1548021477"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-19.php" crc="1547923896"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-18.php" crc="1547837270"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\logs\log-2019-01-17.php" crc="1547765998"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\State.php" crc="1547837388"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\REST_Controller.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\Ion_auth.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\InputArray.php" crc="1546933054"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\Format.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\Code.php" crc="1543572946"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\Calculate.php" crc="1547738436"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\libraries\Bcrypt.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\zh\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\zh\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\zh\front_lang.php" crc="1549107644"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\zh\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\zh\api_lang.php" crc="1547835880"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\ru\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\ru\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\ru\front_lang.php" crc="1549107644"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\ru\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\ru\api_lang.php" crc="1547835880"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\front_lang.php" crc="1549107644"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\pl\api_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\lv\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\lv\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\lv\front_lang.php" crc="1549049096"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\lv\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\lv\api_lang.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\it\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\it\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\it\front_lang.php" crc="1549107644"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\it\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\it\api_lang.php" crc="1549539432"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\fr\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\fr\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\fr\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\fr\front_lang.php" crc="1549049158"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\fr\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\fr\api_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\es\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\es\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\es\front_lang.php" crc="1549107644"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\es\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\es\api_lang.php" crc="1549539432"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\en\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\en\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\en\front_lang.php" crc="1549049096"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\en\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\en\api_lang.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\de\rest_controller_lang.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\de\ion_auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\de\front_lang.php" crc="1549107644"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\de\auth_lang.php" crc="1546933333"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\language\de\api_lang.php" crc="1547835880"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\hooks\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\helpers\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\helpers\db_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\helpers\date_helper.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\core\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Tours.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Test.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Setstatus.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Register.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Price.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Pay.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Orderstatus.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Ordersetstatus.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Orderbyid.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Order.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Onplace.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Login.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Key.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\index.html" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\History.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Freedriver.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Driver.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Copy_point.php" crc="1550160524"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Copy_list.php" crc="1553800898"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\Code.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\api\About.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Tours_orders.php" crc="1547227207"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Tours.php" crc="1554326164"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Tourpoints.php" crc="1554474680"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Points.php" crc="1554326612"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Page.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Onplace.php" crc="1554281914"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\NewFile.php" crc="1554281903"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\History.php" crc="1547232210"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Drivers.php" crc="1547230350"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Drivermanager.php" crc="1547226087"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\admin\Clear.php" crc="1554328658"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Welcome.php" crc="1554922489"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Test.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Status.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Send.php" crc="1555311243"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Payment.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Manage.php" crc="1555316040"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\index.html" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Img.php" crc="1554282778"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Drivermanager.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\controllers\Auth.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\user_agents.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\routes.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\rest.php" crc="1547300485"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\profiler.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\mimes.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\migration.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\memcached.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\ion_auth.php" crc="1553583057"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\hooks.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\foreign_chars.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\doctypes.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\database.php" crc="1553281572"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\constants.php" crc="1555311310"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\config.php" crc="1555305732"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\config\autoload.php" crc="1547837015"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\cache\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\index.html" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\application\.htaccess" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\index.php" crc="1543518283"/>
+		<file name="C:\server\OSPanel\domains\localhost\tricypolitain.com\.htaccess" crc="1553682557"/>
+	</filescache>
+</project>
